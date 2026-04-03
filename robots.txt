@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://klerno-labs.github.io/review-best-protein-supplements-for-women-over-40/sitemap.xml
